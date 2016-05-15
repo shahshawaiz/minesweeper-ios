@@ -1,6 +1,7 @@
-Mineswifter: A Swift Minesweeper App
-==================
+# Minesweeper
+Minesweeper, is a classical minesweeper game from 90s for urdu native speaking audience. The goal is to clear realm from hidden "mines" without detonating any of them with help from clues about the number of neighboring mines in each field.
 
-This is the source code for the MakeGamesWithUs minesweeper app tutorial, which can be found at: https://www.makegameswith.us/gamernews/403/learn-swift-build-a-minesweeper-app-using-xcode-6
-
-![Mineswifter App Screenshot](http://gotlightgame.com/Mineswifter/swift_tut_09.png)
+![Screenshot 1](https://github.com/shahshawaiz/minesweeper-ios/blob/master/screen1.png)
+![Screenshot 2](https://github.com/shahshawaiz/minesweeper-ios/blob/master/screen2.png)
+![Screenshot 3](https://github.com/shahshawaiz/minesweeper-ios/blob/master/screen3.png)
+![Icon](https://github.com/shahshawaiz/minesweeper-ios/blob/master/icon.png)
